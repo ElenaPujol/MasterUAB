@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 05/11/2015 20:36:56.
+     1>Proyecto "D:\MasterUAB\MasterUAB\Test\Test.vcxproj" en el nodo 2 (ClCompile destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\MasterUAB\MasterUAB\\Test /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>Compilación del proyecto terminada "D:\MasterUAB\MasterUAB\Test\Test.vcxproj" (ClCompile destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.35

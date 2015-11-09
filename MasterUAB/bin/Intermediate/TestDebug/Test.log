@@ -1,0 +1,35 @@
+﻿Compilación iniciada a las 05/11/2015 21:11:13.
+     1>Proyecto "D:\MasterUAB\MasterUAB\Test\Test.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\MasterUAB\MasterUAB\\Test /ID:\MasterUAB\MasterUAB\\Base /I"D:\MasterUAB\MasterUAB\\3rdParty\libxml2-2.7.2.win32\include" /I"D:\MasterUAB\MasterUAB\\3rdParty\iconv-1.9.2.win32\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\\" /Fd"D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Enemies\BossEnemy.cpp Enemies\EnemyManager.cpp Enemies\FixedEnemy.cpp Enemies\PatrolEnemy.cpp
+         PatrolEnemy.cpp
+         FixedEnemy.cpp
+         EnemyManager.cpp
+         BossEnemy.cpp
+         Generando código...
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MasterUAB\MasterUAB\\bin\Test\Test_d.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\MasterUAB\MasterUAB\\bin\lib /LIBPATH:"D:\MasterUAB\MasterUAB\\3rdParty\iconv-1.9.2.win32\lib" /LIBPATH:"D:\MasterUAB\MasterUAB\\3rdParty\libxml2-2.7.2.win32\lib" libxml2.lib base_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test_d.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\MasterUAB\MasterUAB\bin\Test\Test_d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MasterUAB\MasterUAB\\bin\Test\Test_d.lib" /MACHINE:X86 D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test_d.exe.embed.manifest.res
+         D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\BossEnemy.obj
+         D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\EnemyManager.obj
+         D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\FixedEnemy.obj
+         D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\PatrolEnemy.obj
+         D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\stdafx.obj
+         D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test_d.exe.embed.manifest" /manifest D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test_d.exe.intermediate.manifest
+         Todas las salidas están actualizadas.
+       LinkEmbedManifest:
+         Todas las salidas están actualizadas.
+         Test.vcxproj -> D:\MasterUAB\MasterUAB\\bin\Test\Test_d.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test.unsuccessfulbuild".
+         Aplicando tarea Touch a "D:\MasterUAB\MasterUAB\\bin\Intermediate\TestDebug\Test.lastbuildstate".
+     1>Compilación del proyecto terminada "D:\MasterUAB\MasterUAB\Test\Test.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.05

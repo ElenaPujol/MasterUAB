@@ -1,0 +1,18 @@
+﻿Compilación iniciada a las 04/11/2015 19:40:09.
+     1>Proyecto "d:\MasterUAB\MasterUAB\Sound\Sound.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "d:\MasterUAB\MasterUAB\\bin\Intermediate\SoundRelease\Sound.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"d:\MasterUAB\MasterUAB\\bin\Intermediate\SoundRelease\\" /Fd"d:\MasterUAB\MasterUAB\\bin\Intermediate\SoundRelease\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dummy.cpp
+         dummy.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"d:\MasterUAB\MasterUAB\\bin\lib\Sound.lib" /NOLOGO /LTCG d:\MasterUAB\MasterUAB\\bin\Intermediate\SoundRelease\dummy.obj
+         Sound.vcxproj -> d:\MasterUAB\MasterUAB\\bin\lib\Sound.lib
+       FinalizeBuildStatus:
+         Se eliminará el archivo "d:\MasterUAB\MasterUAB\\bin\Intermediate\SoundRelease\Sound.unsuccessfulbuild".
+         Aplicando tarea Touch a "d:\MasterUAB\MasterUAB\\bin\Intermediate\SoundRelease\Sound.lastbuildstate".
+     1>Compilación del proyecto terminada "d:\MasterUAB\MasterUAB\Sound\Sound.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.15

@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 04/11/2015 19:23:24.
+     1>Proyecto "d:\MasterUAB\MasterUAB\Videogame\Videogame.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\Videogame.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\\" /Fd"d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt videogame.cpp
+         videogame.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\MasterUAB\MasterUAB\\bin\Videogame\Videogame.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\Videogame.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\MasterUAB\MasterUAB\bin\Videogame\Videogame.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\MasterUAB\MasterUAB\\bin\Videogame\Videogame.lib" /MACHINE:X86 d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\videogame.obj
+         Generando código
+         Generación de código finalizada
+         Videogame.vcxproj -> d:\MasterUAB\MasterUAB\\bin\Videogame\Videogame.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\MasterUAB\MasterUAB\\bin\Videogame\Videogame.exe;#1" /manifest d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\Videogame.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\Videogame.unsuccessfulbuild".
+         Aplicando tarea Touch a "d:\MasterUAB\MasterUAB\\bin\Intermediate\VideogameRelease\Videogame.lastbuildstate".
+     1>Compilación del proyecto terminada "d:\MasterUAB\MasterUAB\Videogame\Videogame.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.60

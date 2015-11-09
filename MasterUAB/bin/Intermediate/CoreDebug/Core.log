@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 04/11/2015 19:30:23.
+     1>Proyecto "d:\MasterUAB\MasterUAB\Core\Core.vcxproj" en el nodo 2 (build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+         Creando directorio "d:\MasterUAB\MasterUAB\\bin\lib\".
+     1>InitializeBuildStatus:
+         Se creará "d:\MasterUAB\MasterUAB\\bin\Intermediate\CoreDebug\Core.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"d:\MasterUAB\MasterUAB\\bin\Intermediate\CoreDebug\\" /Fd"d:\MasterUAB\MasterUAB\\bin\Intermediate\CoreDebug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dummy.cpp
+         dummy.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"d:\MasterUAB\MasterUAB\\bin\lib\Core_d.lib" /NOLOGO d:\MasterUAB\MasterUAB\\bin\Intermediate\CoreDebug\dummy.obj
+         Core.vcxproj -> d:\MasterUAB\MasterUAB\\bin\lib\Core_d.lib
+       FinalizeBuildStatus:
+         Se eliminará el archivo "d:\MasterUAB\MasterUAB\\bin\Intermediate\CoreDebug\Core.unsuccessfulbuild".
+         Aplicando tarea Touch a "d:\MasterUAB\MasterUAB\\bin\Intermediate\CoreDebug\Core.lastbuildstate".
+     1>Compilación del proyecto terminada "d:\MasterUAB\MasterUAB\Core\Core.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.17
